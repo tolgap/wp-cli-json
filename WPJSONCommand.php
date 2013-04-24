@@ -4,7 +4,7 @@
  *
  * @package wp-cli
  * @subpackage commands/community
- * @maintainer Hoppinger (http://www.hoppinger.com)
+ * @maintainer Tolga Paksoy (https://github.com/tolgap)
  */
 
 class WPJSONCommand extends WP_CLI_Command {
@@ -108,7 +108,7 @@ class WPJSONCommand extends WP_CLI_Command {
   
   static function help(){
     WP_CLI::line( 'Welcome to wp-cli-json' );
-    WP_CLI::line( 'This tool and plugin presents you a JSON representation of your plugin statuses' );
+    WP_CLI::line( 'This tool and plugin presents you a JSON representation of your plugin statuses and core version' );
     WP_CLI::line( 'possible subcommands: core, plugin' );
   }
 

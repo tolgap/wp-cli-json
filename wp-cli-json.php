@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP-JSON wp-cli Extension
 Plugin URI: https://github.com/tolgap/wp-cli-json
-Description: This command for WP-CLI makes it possible to encode plugin info in JSON through the console of wp-cli. 
+Description: This command for WP-CLI makes it possible to encode plugin and core info in JSON through the console of wp-cli. 
 Version: 0.1
 Author: Tolga Paksoy
 Author URI: http://www.hoppinger.com/
